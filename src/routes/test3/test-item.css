@@ -1,0 +1,8 @@
+.test-item {
+  display: block;
+  height: 100px;
+  width: 100px;
+  background-color: #c00;
+  color: #fff;
+  flex-shrink: 0;
+}

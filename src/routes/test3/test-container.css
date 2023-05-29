@@ -1,0 +1,8 @@
+.test-container-slotted {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-around;
+  background-color: #000;
+  overflow-x: auto;
+}
